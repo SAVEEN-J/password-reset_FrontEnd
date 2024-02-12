@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "http://localhost:8080/",
+  baseURL: "https://password-reset-backend-frvx.onrender.com",
 });
